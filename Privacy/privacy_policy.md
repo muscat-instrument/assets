@@ -32,4 +32,5 @@ Although most changes are likely to be minor, the MUSCAT Consortium may change i
 
 ## CHANGE LOG
 -   14th April 2020: New version
+
 This privacy policy has been adapted from the [Automattic](https://automattic.com/privacy/) privacy policy and is licensed Creative Commons ShareAlike [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
